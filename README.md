@@ -2,7 +2,7 @@
 ## _Simples API para WhatsApp_
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Download](https://github.com/k98soft/freeZapApi/releases/download/v1.0.0/freeZapApi.zip)](https://github.com/k98soft/freeZapApi/releases/download/v1.0.0/freeZapApi.zip)
 
 
 | Creditos | Site |

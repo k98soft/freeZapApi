@@ -10,9 +10,9 @@
 
 | Creditos | Site |
 | ------ | ------ |
-| Projeto-TInject| [https://github.com/mikelustosa/Projeto-TInject][PlDb] |
-| Horse | [https://github.com/HashLoad/horse][PlGh] |
-| RESTRequest4Delphi | [https://github.com/viniciussanchez/RESTRequest4Delphi][PlGd] |
+| Projeto-TInject| [https://github.com/mikelustosa/Projeto-TInject] |
+| Horse | [https://github.com/HashLoad/horse]|
+| RESTRequest4Delphi | [https://github.com/viniciussanchez/RESTRequest4Delphi]|
 
 
 ## Features

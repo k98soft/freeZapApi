@@ -28,11 +28,17 @@ Recursos / Resources
 ✔️ WebHook
 
 ✔️ Enviar MP3 - Send MP3
+
 ✔️ Enviar MP4 - Send MP4
+
 ✔️ Enviar IMG - Send IMG
+
 ✔️ Enviar RAR - Send RAR
+
 ✔️ Configurações de DDI - International number configuration
+
 ✔️ Checagem de conexão - check connection
+
 ❌ Enviar botões na conversa - Send buttons in chat(Not functional in WhatsApp Multi devices Beta)
 
 ## Installation

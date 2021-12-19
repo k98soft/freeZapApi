@@ -20,9 +20,13 @@
 
 Recursos / Resources
 ✔️ Enviar mensagens de texto - Send text message
+
 ❌ Enviar mensagens de texto com botões - Send text message with buttons (NEW)
+
 ✔️ Enviar mensagens de texto para números fora da agenda- Send text message
+
 ✔️ WebHook
+
 ✔️ Enviar MP3 - Send MP3
 ✔️ Enviar MP4 - Send MP4
 ✔️ Enviar IMG - Send IMG

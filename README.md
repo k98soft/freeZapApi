@@ -2,7 +2,10 @@
 ## _Simples API para WhatsApp_
 
 
-[![Download](https://github.com/k98soft/freeZapApi/releases/download/v1.0.0/freeZapApi.zip)](https://github.com/k98soft/freeZapApi/releases/download/v1.0.0/freeZapApi.zip)
+![Environment](https://img.shields.io/badge/Windows-Vista,%207,%208,%2010-brightgreen.svg)
+[![Release](https://img.shields.io/github/release/k98soft/freeZapApi.svg)](https://github.com/k98soft/freeZapApi/releases)
+![License](https://img.shields.io/github/license/k98soft/freeZapApi.svg)
+![TotalDownloads](https://img.shields.io/github/downloads/k98soft/freeZapApi/latest/total.svg)
 
 
 | Creditos | Site |
